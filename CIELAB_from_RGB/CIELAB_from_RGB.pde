@@ -8,10 +8,6 @@ Convert CIELAB from RGB.
 import java.awt.*;
 import javax.swing.*;
 
-TextField inputLine_R = new TextField("0");
-TextField inputLine_G = new TextField("0");
-TextField inputLine_B = new TextField("0");
-
 void setup()
 {
   double r0, g0, b0;
